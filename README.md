@@ -63,7 +63,7 @@
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/Niko-Cloud" target="_blank">
+<a href="https://github.com/devTever" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 <br/>
@@ -72,6 +72,4 @@
 
 <br/> 
 
-[![Tever's GitHub stats](https://github-readme-stats.vercel.app/api?username=devTever#gh-dark-mode-only)][def]
-
-[def]: https://github.com/devTever/github-readme-stats#gh-dark-mode-only
+[![Tever's GitHub stats](https://github-readme-stats.vercel.app/api?username=devTever#gh-dark-mode-only)](https://github.com/devTever/github-readme-stats#gh-dark-mode-only)
