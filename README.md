@@ -56,6 +56,13 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
+### Unity Learn
+<div align="center">  
+<a href="https://learn.unity.com/pathway/unity-essentials" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" alt="Unity Essentials" height="50" /></a>   
+<a href="https://learn.unity.com/pathway/junior-programmer" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" alt="Junior Programmer" height="50" /></a>   
+<a href="https://learn.unity.com/pathway/creative-core" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/cf7f5efa-aedb-4bf7-805c-7286db8a265b/blob" alt="Creative Core" height="50" /></a>   
+</div>
+
 </td></tr></table>  
 
 <br/>  
