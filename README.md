@@ -26,3 +26,7 @@ Puedes acceder a mis proyectos destacados en este listado:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tever-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tever-innovacion/)
 [![Web](https://img.shields.io/badge/Web-Tever.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://tever.es/?utm=github)
 [![Email](https://img.shields.io/badge/hola@tever.es-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hola@tever.es)
+
+---
+
+[![Made with ❤️ by Tever](https://img.shields.io/badge/Made%20with%20❤️-by%20Tever-181717?logo=github)](https://github.com/devTever)
