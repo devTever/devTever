@@ -13,7 +13,8 @@ He combinado la docencia con el desarrollo de proyectos de software, siempre con
 
 Puedes acceder a mis proyectos destacados en este listado:
 
-- 🎮 Creador del canal [**OrnitoGames**](https://youtube.com/@OrnitoGames_dev?sub_confirmation=1), donde enseño cómo **crear videojuegos desde cero**.  
+- 🎮 Creador del canal [**OrnitoGames**](https://youtube.com/@OrnitoGames_dev?sub_confirmation=1), donde enseño cómo **crear videojuegos desde cero**.
+  - Acceso al GitHub de [*OrnitoGames*](https://github.com/devTever/ornitogames)
 - 🌍 Impulsor del [**Manifiesto Ético Digital**](https://tever.es/manifiesto-etico-digital/?utm=github), explorando cómo hacer un **desarrollo responsable y respetuoso**.  
 
 💡 Mi objetivo: **aprender enseñando, enseñar creando y crear con ética**.  
