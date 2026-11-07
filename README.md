@@ -2,7 +2,7 @@
 
 # Hi, I'm Tever 👋
 
-**Independent researcher in music informatics · Asturian bagpiper · Educator**
+**Independent researcher in music informatics · Web development educator · Asturian bagpiper**
 
 [English](README.md) · [Español](README.es.md)
 
@@ -32,8 +32,43 @@ transcription in particular — within **Music Information Retrieval (MIR)** and
 **Digital Humanities**, with the Asturian bagpipe (*gaita*) as a separate
 interest. This is the subject of my ongoing PhD research.
 
+I also **teach web development at a professional level** (vocational training),
+where I bring real engineering practice into the classroom.
+
 I publish **in the open**: field notes, prototypes, code and mistakes included.
 What has no publishable material yet is marked as such — silence is data too.
+
+## 🎓 Teaching, with a real project
+
+I use a real open-source project with my students so they can see what a
+complete project looks like **from the inside** — decisions, structure, tests
+and mistakes included, not a toy exercise.
+
+### [AriaScope](https://github.com/devTever/ariascope) — *Make accessibility visible.*
+
+[![Repo](https://img.shields.io/badge/repo-devTever%2Fariascope-181717?style=flat-square&logo=github)](https://github.com/devTever/ariascope)
+![Status](https://img.shields.io/badge/status-early%20stage-orange?style=flat-square)
+![Open source](https://img.shields.io/badge/open%20source-yes-brightgreen?style=flat-square)
+
+An open-source platform to **analyze, visualize, understand and improve web
+accessibility**. Instead of only listing what is wrong, it aims to let you
+*see* the problem, locate it in the code and check the fix. Given a URL, it
+offers four perspectives: **visual**, **semantic** (accessibility tree, ARIA
+roles, accessible names), **interaction** (keyboard navigation, focus order)
+and **code** (affected HTML and suggested fixes).
+
+> Automatic tools cannot guarantee full accessibility compliance on their own.
+> AriaScope is meant to combine automated checks with manual and assisted testing.
+
+Planned roadmap (the repository is at its very beginning):
+
+```mermaid
+flowchart LR
+    F1["Phase 1<br/>Developer tool<br/>URL analyzer · ARIA tree inspector<br/>keyboard navigation · reports · CLI"]
+    F2["Phase 2<br/>Dev integration<br/>VS Code · Forgejo/GitHub<br/>PR analysis · regressions · API"]
+    F3["Phase 3<br/>Applied intelligence<br/>contextual explanations<br/>suggested fixes · generated tests"]
+    F1 --> F2 --> F3
+```
 
 ## 🧭 Where my work lives
 

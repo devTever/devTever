@@ -2,7 +2,7 @@
 
 # Hola, soy Tever 👋
 
-**Investigador independiente en informática musical · Gaitero asturiano · Docente**
+**Investigador independiente en informática musical · Docente de desarrollo web · Gaitero asturiano**
 
 [English](README.md) · [Español](README.es.md)
 
@@ -32,9 +32,46 @@ especial la transcripción polifónica de piano— dentro de la **Recuperación 
 Información Musical (MIR)** y las **Humanidades Digitales**, con la gaita
 asturiana como interés aparte. Es el tema de mi investigación doctoral en curso.
 
+También **doy clase de desarrollo web a nivel profesional** (formación
+profesional), donde llevo la práctica real de ingeniería al aula.
+
 Publico **a la vista**: notas de campo, prototipos, código y errores incluidos.
 Lo que aún no tiene material publicable se marca como tal: el silencio también
 es un dato.
+
+## 🎓 Docencia, con un proyecto real
+
+Uso un proyecto real de código abierto con mi alumnado para que vean cómo es un
+proyecto completo **por dentro** —decisiones, estructura, pruebas y errores
+incluidos—, no un ejercicio de juguete.
+
+### [AriaScope](https://github.com/devTever/ariascope) — *Make accessibility visible.*
+
+[![Repo](https://img.shields.io/badge/repo-devTever%2Fariascope-181717?style=flat-square&logo=github)](https://github.com/devTever/ariascope)
+![Estado](https://img.shields.io/badge/estado-fase%20inicial-orange?style=flat-square)
+![Código abierto](https://img.shields.io/badge/c%C3%B3digo%20abierto-s%C3%AD-brightgreen?style=flat-square)
+
+Plataforma de código abierto para **analizar, visualizar, comprender y mejorar
+la accesibilidad web**. En lugar de limitarse a decir qué está mal, busca que
+puedas *verlo*, localizarlo en el código y comprobar la corrección. Dada una
+URL, ofrece cuatro perspectivas: **visual**, **semántica** (árbol de
+accesibilidad, roles ARIA y nombres accesibles), **interacción** (navegación
+por teclado, orden de foco) y **código** (HTML afectado y propuestas de
+corrección).
+
+> Ninguna herramienta automática puede garantizar por sí sola el cumplimiento
+> completo de la accesibilidad. AriaScope pretende combinar comprobaciones
+> automáticas con pruebas manuales y asistidas.
+
+Hoja de ruta prevista (el repositorio está en sus inicios):
+
+```mermaid
+flowchart LR
+    F1["Fase 1<br/>Herramienta para desarrolladores<br/>analizador por URL · inspector ARIA<br/>navegación por teclado · informes · CLI"]
+    F2["Fase 2<br/>Integración con desarrollo<br/>VS Code · Forgejo/GitHub<br/>análisis de PR · regresiones · API"]
+    F3["Fase 3<br/>Inteligencia aplicada<br/>explicaciones contextuales<br/>correcciones · pruebas generadas"]
+    F1 --> F2 --> F3
+```
 
 ## 🧭 Dónde vive mi trabajo
 
